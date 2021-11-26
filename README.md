@@ -5,7 +5,9 @@
 
 [![Twitter: Steven_33D](https://img.shields.io/twitter/follow/Steven_33D?style=flat-square)](https://twitter.com/Steven_33D)
 [![GitHub StevenDias33](https://img.shields.io/github/followers/StevenDias33?label=follow%20github&style=flat-square)](https://github.com/StevenDias33)
-![](https://tryhackme-badges.s3.amazonaws.com/StevenD33.png)
+
+
+![TryHackme StevenDias33](https://tryhackme-badges.s3.amazonaws.com/StevenD33.png)
 
 <br>
 
